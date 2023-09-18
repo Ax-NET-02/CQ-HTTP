@@ -17,5 +17,6 @@ My Linux architecture is amd64, If you have another architecture, please downloa
 1. Deploying go cqhttp on the Linux platform requires two files, My Linux architecture is amd64, If you have a different architecture, you can download the same architecture from the official website<br>
 One is the rc-4.deb installation package and one is the go cqhttp.tar.gz compressed package<br>
 You can download it on the official website[[Official download address]📁📁](https://github.com/Mrs4s/go-cqhttp/releases)<br>
-You can also directly download the entire project， The [[GO-CQHTTP-Document]📁]() folder contains deployment files for robot frameworks on the Windosw and Linux platforms
+You can also directly download the entire project， The [[GO-CQHTTP-Document]📁](GO-CQHTTP-Document) folder contains deployment files for robot frameworks on the Windosw and Linux platforms<br>
+![Prepare configuration files and installation packages](images/)
 
