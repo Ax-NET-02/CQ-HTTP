@@ -19,7 +19,8 @@ One is the rc-4.deb installation package and one is the go cqhttp.tar.gz compres
 You can download it on the official website[[Official download address]📁📁](https://github.com/Mrs4s/go-cqhttp/releases)<br>
 You can also directly download the entire project， The [[GO-CQHTTP-Document]📁](GO-CQHTTP-Document) folder contains deployment files for robot frameworks on the Windosw and Linux platforms<br>
 
-![Find](images/Find the deb installation package and configuration files.png)
+![Find](images/Find_the_deb.png)
+
 ![Prepare configuration files and installation packages](images/准备安装包.png)
 
 Open the terminal in the same directory as the deployment file of the robot framework, and enter the following command in the terminal to install it
