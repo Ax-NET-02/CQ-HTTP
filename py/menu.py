@@ -9,20 +9,20 @@ def menu():
     data = request.get_json()
     message = data['message']
 
-    if "菜单" == message:
-        a = "这是笨笨的菜单哦：[CQ:face,id=101][CQ:face,id=101][CQ:shake]\n " \
-            "1.讲一个笑话(笑话可能会有重复，请谅解)\n " \
-            "2.今天是什么节日\n " \
-            "3.点歌规则\n " \
-            "4.查询时间(虽然没有什么屁用)\n " \
-            "5.今天天气如何\n "  \
-            "6.舔狗日记\n " \
-            "7.每日一言\n " \
-            "8.随机音乐[网易云热歌榜随机音乐]\n " \
-            "9.安慰文案\n " \
+    if "menu" == message:
+        a = "This is a clumsy menu：[CQ:face,id=101][CQ:face,id=101][CQ:shake]\n " \
+            "1.Tell a joke (the joke may be repetitive, please understand)\n " \
+            "2.What holiday is today\n " \
+            "3.Song ordering rules\n " \
+            "4.Query time (although it's not really useful)\n " \
+            "5.What's the weather like today\n "  \
+            "6.Licking Dog Diary\n " \
+            "7.A word of the day\n " \
+            "8.Random Music [NetEase Cloud Hot Song Chart Random Music]\n " \
+            "9.Comfort copy\n " \
             "10.\n " \
-            "特殊菜单：\n "\
-            "关于作者"
+            "Special menu：\n "\
+            "About the author"
         API.send(a)
 
     elif "笨笨" == message:
