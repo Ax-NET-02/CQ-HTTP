@@ -18,6 +18,7 @@ My Linux architecture is amd64, If you have another architecture, please downloa
 One is the rc-4.deb installation package and one is the go cqhttp.tar.gz compressed package<br>
 You can download it on the official website[[Official download address]📁📁](https://github.com/Mrs4s/go-cqhttp/releases)<br>
 You can also directly download the entire project， The [[GO-CQHTTP-Document]📁](GO-CQHTTP-Document) folder contains deployment files for robot frameworks on the Windosw and Linux platforms<br>
+
 ![Prepare configuration files and installation packages](images/准备安装包.png)
 
 Open the terminal in the same directory as the deployment file of the robot framework, and enter the following command in the terminal to install it
