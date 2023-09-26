@@ -1,5 +1,5 @@
 # GO-CQHTTP✨✨
-### [English📗📗]  [[简体中文]📘📘](Chinese.md)
+### English  [[简体中文]📘📘](Chinese.md)
 
 ## Introduce
 Hello, I am Ax NET<br>
